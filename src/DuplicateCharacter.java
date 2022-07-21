@@ -47,7 +47,7 @@ public class DuplicateCharacter
 		map.put(I1, "Ajeet");
 	
 		I1=null;
-		System.gc();
+		System.gc();//changed line 50
 		System.out.println(map);
 		
 		
