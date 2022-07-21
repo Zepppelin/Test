@@ -23,6 +23,7 @@ public class DuplicateCharacter
 //			else
 //			{
 //				map.put(c, ++count);
+	            //ajeet
 //			}
 //		}
 //		Set<Entry<Character,Integer>> set=map.entrySet();
