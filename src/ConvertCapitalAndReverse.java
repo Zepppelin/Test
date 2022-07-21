@@ -11,7 +11,7 @@ public class ConvertCapitalAndReverse
 		{
 			if(arr[i]==' ' && Character.isLowerCase(arr[i+1])) 
 			{
-				arr[i+1]=(char)(arr[i+1]-32);
+				arr[i+1]=(char)(arr[i+1]-32+32);
 			}
 			
 		}
