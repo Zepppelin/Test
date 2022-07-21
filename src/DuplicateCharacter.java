@@ -49,7 +49,7 @@ public class DuplicateCharacter
 		I1=null;
 		System.gc();//changed line 50
 		System.out.println(map);
-		
+		// party is on
 		
 		
 	}
