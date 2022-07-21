@@ -9,6 +9,8 @@ import java.util.WeakHashMap;
 public class DuplicateCharacter
 {
 	//added changes
+	//change 1
+	//change 2
 	//public static void duplicateChar(String s) 
 	//{
 //		char[] arr=s.toCharArray();
